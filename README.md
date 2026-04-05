@@ -17,3 +17,4 @@ Simple weather app using OpenWheater API.
 - API (OpenWheater)
 
 ## Demo
+https://mimicofish.github.io/wheater-app-api/
